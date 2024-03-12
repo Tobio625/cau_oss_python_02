@@ -1,0 +1,7 @@
+garo=float(input('가로입력하세요'))
+sero=float(input('세로입력하세요'))
+nopi=float(input('높이입력하세요'))
+print('가로:',garo)
+print('세로:',sero)
+print('높이:',nopi)
+print('박스의 부피는',garo*sero*nopi,'입니다.')
